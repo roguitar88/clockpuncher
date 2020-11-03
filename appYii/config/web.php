@@ -68,11 +68,8 @@ $config = [
 
                 'class'      => 'Swift_SmtpTransport',
                 'host'       => 'smtp.gmail.com', // e.g. smtp.mandrillapp.com or smtp.gmail.com
-                //'username'   => 'leads.rowan@gmail.com',
-                //'username'   => 'rowan.lead@gmail.com',
-                //'password'   => 'rowanmkt360',
-                'username'   => 'rogeriobsoares5@gmail.com',
-                'password'   => '123147poi',
+                'username'   => 'meuemail@gmail.com',
+                'password'   => 'senha',
                 'port'       => '587', // Port 25 is a very common port too
                 'encryption' => 'tls', // It is often used, check your provider or mail server specs
             ],
