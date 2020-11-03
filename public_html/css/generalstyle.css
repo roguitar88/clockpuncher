@@ -1,0 +1,46 @@
+body{
+	/*background-color: yellow;*/
+}
+
+#main-logo{
+	width: 15%;
+	height: auto;
+	margin-right: 2%;
+	float:left;
+}
+
+#logo-text{
+	width: 75%;
+	float: left;
+	font-size: 100%;
+}
+
+.site-navbar.py-4.js-sticky-header.site-navbar-target div div div h1{
+	display: inline-block;
+}
+
+.site-logo a{
+	display: flex;
+    align-items: center;
+}
+
+.italic-emphasis{
+	font-style: italic;
+}
+
+.card-header h4{
+	color: #DE781F;
+	font-size: 200%;
+	font-weight: bolder;
+}
+
+.card-body button{
+	/*position: absolute;
+  	bottom: 0;
+  	left: 0;
+  	*/
+}
+
+.site-login{
+	text-align: center;
+}
